@@ -2,7 +2,10 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    /* font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Kaushan Script', cursive;
+    /* font-family: 'Mr Dafoe', cursive; */
     font-weight: 300;
     font-size: .95rem;
   }
